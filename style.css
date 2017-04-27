@@ -1,0 +1,58 @@
+body{
+  background: url("http://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/359550/d504a5b17453cb5039beeaa9352e9762fc26681c.jpg");
+  color: white;
+  font-family: Liberate;
+  background-size: cover;
+}
+#header{
+  background: rgba(0,0,0, 0.5);
+  border: 5px solid white;
+  border-radius: 25px;
+  width: 50%;
+  margin:10px auto;
+}
+img{
+  width: 100px;
+  border-radius: 50%;
+}
+.col-md-3{
+  padding: 8px;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  float: left;
+  position: relative;
+}
+a{
+  text-decoration: none;
+  color: #fff;
+}
+a:hover{
+  color: gray;
+  text-decoration: none;
+}
+a:active{
+  text-decoration: none;
+  color: gray;
+}
+.row{
+  background: rgba(0,0,0,0.5);
+  border: 1px solid white;
+  border-radius: 25px;
+  margin:10px;
+}
+h4{
+  color: gray;
+}
+.of{
+  color: red;
+}
+.on{
+  color: green;
+}
+.container {
+  width: 100%;
+}
+.title{
+  font-size: 25px;
+}
